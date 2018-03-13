@@ -1,0 +1,27 @@
+{
+  "name": "app-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rshuman/app-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rshuman/app-project/issues"
+  },
+  "homepage": "https://github.com/rshuman/app-project#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "express-ejs-layouts": "^2.3.1",
+    "mongoose": "^5.0.10",
+    "morgan": "^1.9.0"
+  }
+}
